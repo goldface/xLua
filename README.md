@@ -5,7 +5,8 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg)](https://github.com/Tencent/xLua/pulls)
 [![Build status](https://travis-ci.org/Tencent/xLua.svg?branch=master)](https://travis-ci.org/Tencent/xLua)
 
-[(English Documents Available)](README_EN.md)
+[(English Documents Available)](README_EN.md)  
+[(Korean Documents Available)](README_KR.md)
 
 ## C#下Lua编程支持
 
