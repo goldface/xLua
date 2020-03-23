@@ -28,16 +28,16 @@ Zip패키지의 압축을 풀면 Unity프로젝트의 Assets디렉토리에 해�
 * [FAQs](Assets/XLua/Doc/Faq_EN.md): 자주 묻는 질문이 여기에 요약되어 있습니다. 초보자를 위한 질문에 대한 답변을 찾을 수 있습니다.
 * (필독) [XLua 튜토리얼](Assets/XLua/Doc/XLua_Tutorial_EN.md): 튜토리얼입니다. 지원 코드는 여 [여기](Assets/XLua/Tutorial/)에서 찾을 수 있습니다.
 * (필독) [XLua 구성](Assets/XLua/Doc/Configure_EN.md): xLua를 구성 하는 방법에 대한 설명.
-* [핫필스 사용 설명서](Assets/XLua/Doc/Hotfix_EN.md): 핫픽스 기능을 사용하는 방법에 대한 설명.
+* [핫픽스 사용 설명서](Assets/XLua/Doc/Hotfix_EN.md): 핫픽스 기능을 사용하는 방법에 대한 설명.
 * [xLua에서 타사 Lua라이브러리 추가/제거](Assets/XLua/Doc/Add_Remove_Lua_Lib.md): 타사 Lua확장 라이브러리를 추가하거나 제거하는 방법에 대한 설명.
 * [xLua APIs](Assets/XLua/Doc/XLua_API_EN.md): API 문서
 * [빌드 엔진 보조 개발 가이드](Assets/XLua/Doc/Custom_Generate_EN.md): 빌드 엔진 보조 개발을 사용하는 방법에 대한 설명
 
 ## 빠른 시작
 
-3줄의 코드면 모든것이 설명됩니다.
+3줄의 코드면 끝입니다.
 
-xLua를 인스톨하고 MonoBehaviour를 시나리오에 드래그하고, 다음의 코드를 추가하세요:
+xLua를 설치하고 MonoBehaviour를 시나리오에 드래그하고, 다음의 코드를 추가하세요:
 
 ```csharp
 XLua.LuaEnv luaenv = new XLua.LuaEnv();
